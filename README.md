@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshwardhan Somnath Bhadange</h1>
+<h1 align="center">Hi 👋, I'm Harshwardhan Bhadange</h1>
 <h3 align="center">Embarking on a Technical Adventure</h3>
 
+<img align="right" alt="coding" width ="400" src="https://github.com/HarshBhadange/HarshBhadange/blob/main/uinn.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbhadange&label=Profile%20views&color=0e75b6&style=flat" alt="harshbhadange" /> </p>
 
 - 🔭 I’m currently working on [MediForecast](https://github.com/HarshBhadange/MediForecast)
