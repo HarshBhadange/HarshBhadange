@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/HarshBhadange/HarshBhadange/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harshwardhan Bhadange</h1>
 <h3 align="center">Embarking on a Technical Adventure</h3>
 
